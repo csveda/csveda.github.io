@@ -1,3 +1,3 @@
 # csveda.github.io
 
-Computer Science & Engineering
+Anant Kumar Pandey's Blog
