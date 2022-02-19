@@ -1,0 +1,6 @@
+[submodule "themes/hugo-cleanwhite"]
+	path = themes/hugo-cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
+[submodule "site_root/themes/hugo-cleanwhite"]
+	path = site_root/themes/hugo-cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
