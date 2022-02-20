@@ -1,3 +1,4 @@
 # csveda.github.io
 CSVEDA's Github Page
-Tryimg to develop my blog here!
+Tis' my blog...
+where i would be blogging all about computer science and engineering... enjoy!
